@@ -1,0 +1,1 @@
+Este proyecto es una base de datos de una empresa que consta de dos colecciones, la primera con informacion de los trabajadores y la segunda con informacion de los distintos departamentos que existen en ella.
